@@ -1,4 +1,4 @@
-# 
+# Enhance Notion for Windows with automatic Notion for Windows Helper | cloud-sync + rich-text-editing, the #1 helper. Includes cloud-sync and rich-text-editing for a smoother and
 
 
 
